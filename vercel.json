@@ -1,0 +1,1 @@
+{"routes":[{"src":"/blog","dest":"/blog.html"},{"src":"/","dest":"/index.html"},{"src":"/terms-of-service","dest":"/terms-of-service.html"},{"src":"/pricing","dest":"/pricing.html"},{"src":"/privacy-policy","dest":"/privacy-policy.html"},{"src":"/gotradient-email-validation","dest":"/gotradient-email-validation.html"}]}
